@@ -1,5 +1,4 @@
-# cafeManagementSystem
-In this program, after execution of codes, it will provide you the menu list for cafe items and you will have to choose whatever you want. Also, there will some instruction so, that  you cannot be confuse.
+# cafeManagement
 # ☕ Cafe Management System (Python)
 
 ---
@@ -14,7 +13,7 @@ In this program, after execution of codes, it will provide you the menu list for
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 - The menu is stored in a **Python dictionary** with items as *keys* and prices as *values*.  
 - The program repeatedly asks for the customer’s order until they choose to stop.  
@@ -24,7 +23,7 @@ In this program, after execution of codes, it will provide you the menu list for
 
 ---
 
-## 💻 Example Output
+##  Example Output
 
 
 *Explanation of Example Output:*  
@@ -33,5 +32,3 @@ In this program, after execution of codes, it will provide you the menu list for
 - The system handles invalid orders gracefully and prompts the user until they decide to stop.
 
 ---
-
-## 🧩
